@@ -1,6 +1,6 @@
 <div align="center">
 <img alt="logo" height="120" src="./public/favicon.png" width="120"/>
-<h2>今日热榜</h2>
+<h2>今日热搜</h2>
 <p>一个聚合热门数据的 API 接口</p>
 <br />
 <img src="https://img.shields.io/github/last-commit/imsyy/DailyHotApi" alt="last commit"/>
